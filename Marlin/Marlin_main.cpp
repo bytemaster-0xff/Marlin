@@ -3511,7 +3511,6 @@ inline void gcode_G28() {
       }
 
     #endif
-
     // Home X
     if (home_all_axis || homeX) {
 
